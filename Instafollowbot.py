@@ -44,8 +44,8 @@ def like():
 if __name__ == '__main__':
 
 #Write Username and password
-    username = 'your_username'
-    password = 'your_password'
+    username = 'x2mxtte'
+    password = 'Matteo66?'
 
     #Tag Setting
     tags = ['car','bikelover','nickiminaj','arianagrande']
