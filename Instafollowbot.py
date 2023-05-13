@@ -48,7 +48,7 @@ if __name__ == '__main__':
     password = 'Matteo66?'
 
     #Tag Setting
-    tags = ['car','bikelover','nickiminaj','arianagrande']
+    tags = ['car','bikelover','edit','nuke']
 
     like_cnt = 0
     begin = datetime.datetime.today()
